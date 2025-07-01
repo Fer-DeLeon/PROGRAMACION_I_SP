@@ -98,5 +98,9 @@
     {
         "nick": "hola",
         "puntaje": 220
+    },
+    {
+        "nick": "fer",
+        "puntaje": 24
     }
 ]
